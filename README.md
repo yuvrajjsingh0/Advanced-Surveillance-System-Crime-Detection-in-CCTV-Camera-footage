@@ -20,3 +20,7 @@ In this, I've created the model that I would be training on videostreams collect
 ## Social Impact
 
 It can help in preventing major crimes from happening like Warehouse robbery, Killing, Kidnapping from Metro Stations. It can also be used by different online video streaming apps to monitor their content if they are doing that manually.
+
+## Android App Screenshots
+![Login](https://github.com/yuvrajjsingh0/Advanced-Surveillance-System-Crime-Detection-in-CCTV-Camera-footage/blob/checkpoint-3/Images/1.jpg)
+![Alerts](https://github.com/yuvrajjsingh0/Advanced-Surveillance-System-Crime-Detection-in-CCTV-Camera-footage/blob/checkpoint-3/Images/2.jpg)
