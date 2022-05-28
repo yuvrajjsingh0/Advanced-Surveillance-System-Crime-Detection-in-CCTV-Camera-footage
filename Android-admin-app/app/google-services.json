@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "122721623955",
+    "project_id": "crime-detector-67d74",
+    "storage_bucket": "crime-detector-67d74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122721623955:android:19e975d2a3669d3c575266",
+        "android_client_info": {
+          "package_name": "co.in.hexane.crimedetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122721623955-lg5gaparkoe861brotp1doc05qsehn52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvalG_NoqpC_SfBAGaUkkOMFBh_zsQdL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122721623955-lg5gaparkoe861brotp1doc05qsehn52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
