@@ -74,7 +74,7 @@ prediction = model111.predict(np.array(data))
 if prediction[0][0] > 0.89:
     dat = {
         u'Location': u'Los Angeles',
-        u'Accuracy': prediction[0][0] * 100,
+        u'Accuracy': str(prediction[0][0] * 100),
         u'date': time.time()
     }
-    db.collection(u'crimes').add(data)
+    db.collection(u'crimes').add(dat)
