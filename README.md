@@ -22,6 +22,7 @@ In this, I've created the model that I would be training on videostreams collect
 It can help in preventing major crimes from happening like Warehouse robbery, Killing, Kidnapping from Metro Stations. It can also be used by different online video streaming apps to monitor their content if they are doing that manually.
 
 ## How to run
+Download trained model from this link: https://drive.google.com/drive/folders/1hphtqIc6qsFlyZ1t1ACTB6mqe83ijmtI?usp=sharing
 Run: python inference.py
 Login to Android app as yuvrajjsingh0@gmail.com password: yuvraj
 Now you will get the alert if crime is detected
